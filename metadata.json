@@ -1,0 +1,6 @@
+{
+  "name": "Fruit Drop Royale",
+  "description": "An extreme arcade fruit merging battle game with realistic rolling, stacking, and sliding rigid-body physics, vibrant cute cartoon faces, and a 10-player Royale simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
